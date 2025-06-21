@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // Page Load Animation
+   
     document.body.style.opacity = "0";
     document.body.style.transition = "opacity 1.5s ease-in-out";
     setTimeout(() => {
         document.body.style.opacity = "1";
     }, 100);
 
-    // Animated Starry Background
+    
     const canvas = document.createElement("canvas");
     document.body.appendChild(canvas);
     const ctx = canvas.getContext("2d");
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     animateStars();
 
-    // Navigation for 'Go Ahead' button
+    
     const goAheadButton = document.getElementById("goAheadButton");
     if (goAheadButton) {
         goAheadButton.addEventListener("click", function () {

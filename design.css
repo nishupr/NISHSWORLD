@@ -70,104 +70,104 @@ img {
   }
   
 #goAheadButton {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark background */
-    color: white; /* White text */
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white;
     font-size: 18px;
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); /* Black shadow */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); 
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 #goAheadButton:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Slight transparency on hover */
+    background-color: rgba(255, 255, 255, 0.2); 
     color: #000;
-    transform: scale(1.05); /* Slight pop effect */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); /* Darker shadow */
+    transform: scale(1.05); 
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); 
 } 
 #gobackButton {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark background */
-    color: white; /* White text */
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white; 
     font-size: 18px;
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); /* Black shadow */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); 
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 #gobackButton:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Slight transparency on hover */
+    background-color: rgba(255, 255, 255, 0.2);
     color: #000;
-    transform: scale(1.05); /* Slight pop effect */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); /* Darker shadow */
+    transform: scale(1.05); 
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); 
 } 
 #boyquizButton {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark background */
-    color: white; /* White text */
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white; 
     font-size: 18px;
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); /* Black shadow */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); 
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 #boyquizButton:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Slight transparency on hover */
+    background-color: rgba(255, 255, 255, 0.2); 
     color: #000;
-    transform: scale(1.05); /* Slight pop effect */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); /* Darker shadow */
+    transform: scale(1.05); 
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); 
 } 
 #girlquizButton {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark background */
-    color: white; /* White text */
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white; 
     font-size: 18px;
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); /* Black shadow */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); 
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 #girlquizButton:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Slight transparency on hover */
+    background-color: rgba(255, 255, 255, 0.2); 
     color: #000;
-    transform: scale(1.05); /* Slight pop effect */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); /* Darker shadow */
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); 
 } 
 #gobackkButton {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark background */
-    color: white; /* White text */
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white; 
     font-size: 18px;
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); /* Black shadow */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); 
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 #gobackkButton:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Slight transparency on hover */
+    background-color: rgba(255, 255, 255, 0.2); 
     color: #000;
-    transform: scale(1.05); /* Slight pop effect */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); /* Darker shadow */
+    transform: scale(1.05); 
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); 
 }
 
 .container {
@@ -188,44 +188,44 @@ img {
   cursor: pointer;
 }
 #revealButton {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark background */
-    color: white; /* White text */
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white; 
     font-size: 18px;
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); /* Black shadow */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); 
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 #revealButton:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Slight transparency on hover */
+    background-color: rgba(255, 255, 255, 0.2); 
     color: #000;
-    transform: scale(1.05); /* Slight pop effect */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); /* Darker shadow */
+    transform: scale(1.05); 
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); 
 }
 #submitButton {
-    background-color: rgba(0, 0, 0, 0.8); /* Dark background */
-    color: white; /* White text */
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white; 
     font-size: 18px;
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); /* Black shadow */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8); 
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 #submitButton:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Slight transparency on hover */
+    background-color: rgba(255, 255, 255, 0.2); 
     color: #000;
-    transform: scale(1.05); /* Slight pop effect */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); /* Darker shadow */
+    transform: scale(1.05); 
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 1); 
 }
 .result {
   margin-top: 50px;
@@ -236,4 +236,4 @@ img {
   border-radius: 10px;
   background: rgba(0, 0, 0, 0.7);
   display: inline-block;
-}
+} 
