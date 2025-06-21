@@ -23,7 +23,7 @@ Built with love and creativity, the project brings together storytelling, design
 
 - 🔸 Aesthetic homepage with animations and a warm welcome message
 - 🔸 Multiple main characters, each with their own immersive backstory:
-  - *Lexi, Bella, Sky, Luna* (Female leads)
+  - *Lexi, Bella, Sky, Luna, Blaze* (Female leads)
   - *Alex, Zade, Rex, Vik, Kai* (Male leads)
 - 🔸 Romantic and emotional subplots
 - 🔸 Personality & story-based quizzes (Coming soon)
